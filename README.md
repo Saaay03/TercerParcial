@@ -34,10 +34,8 @@ Proyecto que consiste en un programa similar a la aplicación Duolingo, pero enf
 
 -Para instalar el ejecutable, puedes descargar el repositorio desde la sección "Code" y luego en "Download ZIP"
 
-![DuoImage1](https://github.com/Saaay03/TercerParcial/assets/156475348/45b14b5f-6bd1-4f65-b466-2922c4d36ce2)
 
-¡[DuoImage2](https://github.com/Saaay03/TercerParcial/assets/156475348/9185e909-30b3-42fe-89ee-b38050b5a1c7")
-
+![ImagenDuolingo](https://github.com/Saaay03/TercerParcial/assets/156475348/8313bf15-6bfd-4019-a545-4027ed288f5e)
 
 https://github.com/Saaay03/TercerParcial/assets/156475348/78ba832b-dae2-4ead-addf-0f49ffccbcb5
 
