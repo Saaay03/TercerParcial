@@ -1,0 +1,65 @@
+{
+  "Lesson": 3,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lessons": "Que es un componente en Unity?",
+      "options": [
+        "Un objeto",
+        "Una funcion",
+        "Una parte de un objeto",
+        "Un archivo",
+        "Un evento"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 2,
+      "lessons": "Cual es la función del componente BoxCollider?",
+      "options": [
+        "Controlar la camara",
+        "Detectar colisiones",
+        "Animar objetos",
+        "Reproducir sonidos",
+        "Generar particulas"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 3,
+      "lessons": "Que es un shader en Unity?",
+      "options": [
+        "Una textura",
+        "Un componente",
+        "Un material",
+        "Un script",
+        "Un efecto visual"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "ID": 4,
+      "lessons": "Cual es el proposito del componente AudioSource?",
+      "options": [
+        "Controlar la camara",
+        "Detectar colisiones",
+        "Reproducir sonidos",
+        "Animar objetos",
+        "Generar particulas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "ID": 5,
+      "lessons": "Que hace el componente Camera?",
+      "options": [
+        "Controlar la camara",
+        "Detectar colisiones",
+        "Reproducir sonidos",
+        "Animar objetos",
+        "Generar particulas"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

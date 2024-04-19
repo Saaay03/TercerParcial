@@ -1,0 +1,65 @@
+{
+  "Lesson": 2,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lessons": "Que es un script en Unity?",
+      "options": [
+        "Codigo",
+        "Comportamiento",
+        "Funcion",
+        "Componente",
+        "Evento"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 2,
+      "lessons": "Cual es el componente principal para renderizar objetos en Unity?",
+      "options": [
+        "Renderer",
+        "Renderizador",
+        "Render",
+        "Graphics",
+        "Graphic"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 3,
+      "lessons": "Que es un prefab?",
+      "options": [
+        "Instancia",
+        "Objeto",
+        "Modelo",
+        "Entidad",
+        "Prefabab"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 4,
+      "lessons": "Cual es el lenguaje de programacion principal en Unity?",
+      "options": [
+        "C#",
+        "Java",
+        "C++",
+        "Python",
+        "JS"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "ID": 5,
+      "lessons": "¿Que hace el componente Rigidbody?",
+      "options": [
+        "Simular fisicas",
+        "Detectar colisiones",
+        "Controlar la camara",
+        "Animar objetos",
+        "Reproducir sonidos"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

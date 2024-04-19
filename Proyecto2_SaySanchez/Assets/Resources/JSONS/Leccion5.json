@@ -1,0 +1,65 @@
+{
+  "Lesson": 5,
+  "leccionList": [
+    {
+      "ID": 1,
+      "lessons": "Cual es el metodo principal que se llama al iniciar un script en Unity?",
+      "options": [
+        "Start()",
+        "Awake()",
+        "Update()",
+        "FixedUpdate()",
+        "OnEnable()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 2,
+      "lessons": "Que funcion cumple el componente Rigidbody2D en Unity?",
+      "options": [
+        "Controlar la cámara",
+        "Detectar colisiones",
+        "Reproducir sonidos",
+        "Simular físicas 2D",
+        "Animar objetos"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "ID": 3,
+      "lessons": "¿Que indica el prefijo 'void' en la definición de un metodo en C#?",
+      "options": [
+        "Que es público",
+        "Que no devuelve ningún valor",
+        "Que es estático",
+        "Que es abstracto",
+        "Que es privado"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 4,
+      "lessons": "Que componente se utiliza para renderizar graficos en Unity?",
+      "options": [
+        "Renderer",
+        "MeshRenderer",
+        "Graphic",
+        "Graphics",
+        "RenderComponent"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "ID": 5,
+      "lessons": "Cual es el lenguaje de programacion utilizado para escribir scripts en Unity?",
+      "options": [
+        "JavaScript",
+        "Python",
+        "C++",
+        "C#",
+        "Java"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}
